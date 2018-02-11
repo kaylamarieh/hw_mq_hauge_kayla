@@ -12,4 +12,4 @@
 "I reviewed the list of deductions for this assignment and in the syllabus"
 
 ## Comments
-I remembered how to apply media queries from last semester.
+For the 'combo' branch I used one pixel more and less than the min and max widths because it did not say "and" up or "and" less in the directions.
