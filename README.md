@@ -1,7 +1,7 @@
 # Media Queries
 * Kayla Hauge
 * 02-11-2018
-* [Github Repo link](www.github.com/whatever)
+* [Github Repo link](https://github.com/kaylamarieh/hw_mq_hauge_kayla/tree/master)
 
 ## Resources
 
